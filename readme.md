@@ -1,21 +1,21 @@
 <h1 align="center">Hey there 👋🏻 I'm Adarsh!</h1>
-<h3 align="center">Learner exploring 🪁 | Code is the canvas for our imagination. 💡</h3>
+<h3 align="center">Learner 🌱 | Code is the canvas for our imagination. 💡</h3>
 
 ## Second year Undergrad, Web Developer, Open Source Enthusiast, Programmer!
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarspeaks&label=Profile%20views&color=0e75b6&style=flat" alt="pawarspeaks" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh3424&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh3424" /> </p>
 
-[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratappawar/)
+[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patiladarsh/)
 <!-- <img src="https://profile-counter.glitch.me/pawarspeaks/count.svg" />
  -->
  
-<p align="left"> <a href="https://twitter.com/AdarshPatil3424" target="blank"><img src="https://img.shields.io/twitter/follow/pratappawar_?logo=twitter&style=for-the-badge" alt="pratappawar_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AdarshPatil3424" target="blank"><img src="https://img.shields.io/twitter/follow/AdarshPatil3424?logo=twitter&style=for-the-badge" alt="AdarshPatil3424" /></a> </p>
 
-- 🔭 I’m currently working on [Tripify](https://github.com/pawarspeaks/UPRAISE)
+- 🔭 I’m currently working on [100Days-of-DSA-challenge](https://github.com/Adarsh3424/100days-of-DSA-challenge)
 
-- 🌱 I’m currently learning **Web Development 👨🏻‍💻| Java ⚒️| Unreal Engine**
+- 🌱 I’m currently learning **Web Development 👨🏻‍💻| C++ 👨‍💻| **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarsh3424](https://github.com/Adarsh3424)
 
