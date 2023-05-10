@@ -50,4 +50,4 @@
 ![Adarsh's github stats](https://github-readme-stats.spielers.vercel.app/api?username=Adarsh3424&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=Adarsh3424&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adaresh3424&&theme=chartreuse-dark" alt="Adarsh3424" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh3424&&theme=chartreuse-dark" alt="Adarsh3424" /></p>
