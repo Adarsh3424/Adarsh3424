@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [100Days-of-DSA-challenge](https://github.com/Adarsh3424/100days-of-DSA-challenge)
 
-- 🌱 I’m currently learning **Web Development 👨🏻‍💻| C++ 👨‍💻|
+- 🌱 I’m currently learning Web Development 👨🏻‍💻| C++ 👨‍💻|
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarsh3424](https://github.com/Adarsh3424)
 
