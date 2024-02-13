@@ -13,7 +13,7 @@
  
 <p align="left"> <a href="https://twitter.com/AdarshPatil3424" target="blank"><img src="https://img.shields.io/twitter/follow/AdarshPatil3424?logo=twitter&style=for-the-badge" alt="AdarshPatil3424" /></a> </p>
 
-- 🔭 I’m currently working on [100Days-of-DSA-challenge](https://github.com/Adarsh3424/100days-of-DSA-challenge)
+- 🔭 I’m currently working on [GFG_POTD](https://github.com/Adarsh3424/GFG_POTD)
 
 - 🌱 I’m currently learning Web Development 👨🏻‍💻| C++ 👨‍💻|
 
